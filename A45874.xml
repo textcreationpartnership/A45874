@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An information of the present condition of affairs, and declaration concerning present duties from the commission of the General Assembly, unto the kirk and kingdom of Scotland</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45874</idno>
+            <idno type="STC">Wing I170</idno>
+            <idno type="STC">ESTC R11397</idno>
+            <idno type="EEBO-CITATION">12425725</idno>
+            <idno type="OCLC">ocm 12425725</idno>
+            <idno type="VID">61839</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45874)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61839)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 943:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An information of the present condition of affairs, and declaration concerning present duties from the commission of the General Assembly, unto the kirk and kingdom of Scotland</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+               </titleStmt>
+               <extent>[2], 6, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61839:1"/>
+            <!-- PDF PAGE 20 -->
+            <p>AN INFORMATION OF THE Preſent condition of Affairs, AND DECLARATION <hi>Concerning</hi> Preſent DUTIES from the COMMISSION OF THE GENERAL ASSEMBLY, UNTO THE KIRK AND KINGDOM OF <hi>SCOTLAND.</hi>
+            </p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſtie. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61839:2"/>
+            <!-- PDF PAGE 21 -->
+            <pb n="1" facs="tcp:61839:2"/>
+            <!-- PDF PAGE 21 -->
+            <opener>
+               <dateline>
+                  <date>Edinburgh, 9. October 1648. <hi>Poſt meridiem.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S the onely wiſe God is pleaſed to ex<g ref="char:EOLhyphen"/>erciſe his people, and carry on his work in theſe Kingdoms with many ſtrange revolutions of providence, ſo it becomes us according to the variety of his diſpenſation to declare and make known unto the Land the condi<g ref="char:EOLhyphen"/>tion of the affairs of his houſe and the deuties which he calls for in regard of the ſame.</p>
+            <p>After the foundation of that unlawfull Engagement againſt <hi>England,</hi> ſo deſtructive to Religion and the Union betwixt the Kingdomes, was laid in the Iſle of <hi>Wight,</hi> by the unhappy and ſinfull compliance of the Commiſſioners and others of this Kingdom with his Majeſties purpoſes and deſires; It was carried on and concluded by a prevailing party of Malignant and diſ<g ref="char:EOLhyphen"/>affected men in the Parliament, notwithſtanding of the diſſent and proteſtation of a conſiderable number of the Houſe who had been ſtraight and active in the cauſe of God from the beginning, and of the free and faithfull warnings of the ſervants of God, and the ſupplications of many Synods, Presbyteries and Shires to the contra<g ref="char:EOLhyphen"/>ry; And was violently proſecute unto the great op<g ref="char:EOLhyphen"/>preſſion of the Lords people in their conſciences per<g ref="char:EOLhyphen"/>ſons and eſtates and unto the taking of <hi>Berwick</hi> and <hi>Car<g ref="char:EOLhyphen"/>lile,</hi> and invading the Kingdom of <hi>England</hi> with a nu<g ref="char:EOLhyphen"/>merous
+<pb n="2" facs="tcp:61839:3"/>
+               <!-- PDF PAGE 22 -->Army under the conduct of the Duke of <hi>Hamil<g ref="char:EOLhyphen"/>toun,</hi> untill the Lord beholding the affliction of his peo<g ref="char:EOLhyphen"/>ple and taking notice of the Pride and Blaſphemy of the adverſary did ſcatter that Army, and bring upon them ſo ſhamefull and totall an overthrow, as may be a witneſſe unto the following generations of his ſore diſ<g ref="char:EOLhyphen"/>pleaſure againſt the breakers of his Covenant and diſ<g ref="char:EOLhyphen"/>piſers of his word: Wherein we do not deſire that any ſhould rejoyce according to the fleſh, but wiſh that it may be ſanctified to thoſe on whom it has fallen that they may repent, and unto the lovers of God and his cauſe that they may acknowledge his work, and truſt in his name for the time to come.</p>
+            <p>A little before the defeat of thoſe Forces in <hi>England,</hi> the well affected party in this Land thought it neceſſa<g ref="char:EOLhyphen"/>ry, and had reſolved to beſtir themſelves upon their former principles for the good of Religion and the ſafe<g ref="char:EOLhyphen"/>ty of the Kingdom, and their own defence and ſafety againſt the Tyranny and oppreſſion of the Malignant partie, who were now wreathing their yoke upon the necks of honeſt men by a ſecond levy, and divine providence making the certain news of the defeat tryſt with the beginning of their motions, they looked upon it as an invitation and encouragement from the Lord to follow their former reſolutions with the greater celeri<g ref="char:EOLhyphen"/>ty and ſpeed: And whilſt they were advancing towards <hi>Edinburgh</hi> for that end, ſome who had been active pro<g ref="char:EOLhyphen"/>moters of the Engagement againſt <hi>England</hi> did iſſue out Commiſſions to claſſed Rebells and Incendiaries to take Arms for acting their former miſchief and cruelty, and taking themſelves into the fields did invite unto their help the Iriſh Forces under the command of <hi>George Monro,</hi> and ſome other remnants of the ſcattered
+<pb n="3" facs="tcp:61839:3"/>
+               <!-- PDF PAGE 22 -->Army in <hi>England,</hi> for keeping themſelves ſtill in capa<g ref="char:EOLhyphen"/>city and power to proſecute their own intereſts and ends, and carry on the Engagement; as is evident from their letters of the 28 <hi>Auguſt</hi> ſent to the Earl <hi>Marſhall</hi> Vicount or <hi>Dudope, Clerk Regeſter</hi> and <hi>George Monro</hi> (ten dayes after the defeat of the Army in <hi>England.</hi>) Wherein ſpeaking of the Engagement, they declare their reſolutions to recruit their Regiments, and to ha<g ref="char:EOLhyphen"/>zard their lives and fortunes and all that was deareſt unto them for carrying on againſt all oppoſition what<g ref="char:EOLhyphen"/>ſoever, that pious and loyall ſervice, and that they and many others of this Kingdom did intend not to live and out-live it. But afterwards finding, themſelves at diſadvantage did move for an accommodation upon ſuch termes as were not onely diſhonourable and dan<g ref="char:EOLhyphen"/>gerous but ſinfull and unjuſt, as including a reall appro<g ref="char:EOLhyphen"/>bation of the Engagement againſt <hi>England,</hi> and a conti<g ref="char:EOLhyphen"/>nuing of theſe in place and power, who had been mainly inſtrumentall in all the preſent evils: Yet that it might appear how willing thoſe with whom they had to do were to hearken to the motions of peace, and to prevent the ſhedding of blood, they were content that ſome of both ſides ſhould meet for compoſing of differences in a juſt and fair way; And the Commiſsion of the Gene<g ref="char:EOLhyphen"/>rall Aſſembly alſo reſolved to ſend ſome of their num<g ref="char:EOLhyphen"/>ber to exhort them to repentance and perſwade them to juſt and neceſſary overtours of peace, or if they ſhould continue in their wicked way to intimate to them that they would be neceſſitate to proceed againſt them with the ſentence of excommunication. A Trea<g ref="char:EOLhyphen"/>ty with ceſſation of Arms, during the time thereof be<g ref="char:EOLhyphen"/>ing concluded on both ſides, in the mean while before any meeting, the enemy marched unto <hi>Stirling,</hi> and
+<pb n="4" facs="tcp:61839:4"/>
+               <!-- PDF PAGE 23 -->ſurpriſing the Forces which were there (who were ſecure upon the advertiſement of the Treaty) did kill ſome, and take others priſoners, and poſſeſſe themſelves of the Town and Bridge and paſſes there, and left no means uneſſayed for ſtrengthening and increaſing of their Army by labouring for a ſupply of Forces from the High-lands, and the Northern Shires: Yet notwith<g ref="char:EOLhyphen"/>ſtanding of this hightning of differences by ſuch a way of dealing, The Noblemen and Gentlemen in Arms for the Covenant, in purſuance of their former reſoluti<g ref="char:EOLhyphen"/>tions of Peace did intertain the motion of the Treaty, and ſent four of their number unto the place of meeting at <hi>Woodſide,</hi> with Overtours of disbanding all Forces on both ſides, and referring all things concerning Reli<g ref="char:EOLhyphen"/>gion unto the Generall Aſſembly and their Commiſ<g ref="char:EOLhyphen"/>ſioners, and all Civill buſsineſſe unto a lawfull and free Parliament. And albeit thoſe things could not but ſa<g ref="char:EOLhyphen"/>tisfie all unbyaſſed men, and that they<g ref="char:punc">▪</g> who went from the Commiſsion of Aſſembly did freely and faithfully acquit themſelves in all things which they had in charge, yet did they not condiſcend or agree to accept of thoſe conditions, And ſome dayes being ſpent in fruitleſſe debates, The Committee of Eſtates who were then returned unto <hi>Edinburgh,</hi> conſiſting of ſuch per<g ref="char:EOLhyphen"/>ſons onely as had diſſented from the Engagement, con<g ref="char:EOLhyphen"/>ſidering that as yet they had no modelled Army, and that thoſe in <hi>Stirling</hi> were ſtrengthening themſelves unto the raiſing a new and dangerous warre, did take in deliberation what was fit for them to do in ſuch an exi<g ref="char:EOLhyphen"/>gent; And whilſt they were about their reſolutions therein, they were informed by letters from the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Forces, that they did reſolve to proſecute the warre untill their Enemies were put out of a condition of
+<pb n="5" facs="tcp:61839:4"/>
+               <!-- PDF PAGE 23 -->growing unto a new Army, and the Garriſons of <hi>Ber<g ref="char:EOLhyphen"/>wick</hi> and <hi>Carlile</hi> were reduced, and that they were ad<g ref="char:EOLhyphen"/>vanced into <hi>Scotland</hi> for purſuance of thoſe ends; And the Committee not finding themſelves in a poſture at that time, and that they could not in Juſtice refuſe to ſuffer the Engliſhes to purſue thoſe who had invaded their Kingdom, ſent ſome of their number unto <hi>Berwick</hi> and <hi>Carlile</hi> to perſwade the rendering of thoſe Garri<g ref="char:EOLhyphen"/>ſons, and unto the Engliſh Army to take care that their comming into the Kingdome of <hi>Scotland</hi> might be without any prejudice to Religion and as little detri<g ref="char:EOLhyphen"/>ment to the Countrey as poſſible: A few dayes there<g ref="char:EOLhyphen"/>after the Forces at <hi>Stirling</hi> accepted of the conditions offered unto them by the Committee of Eſtates.</p>
+            <p>It ſhall be needleſſe to inſiſt upon the vindication of the riſing of theſe Noblemen and Gentlemen &amp; others that took Arms for the Covenant, the Tyranny of thoſe with whom they had to do being inſupportable, and ſuch as threatned ruine and deſolation to the Land, and tended unto the rending a ſunder of the Union be<g ref="char:EOLhyphen"/>twixt the Kingdoms, the overturning of the work of God, and the putting of an Arbitrary and unlimited power unto the hands of the King, and the ſetting up of the Popiſh Prelaticall and Malignant party, for acting all their miſchievous and wicked deſignes; And they who took Arms being a conſiderable part of the Parliament who had diſſented from and proteſted againſt the Engagement, and had been the chief inſtru<g ref="char:EOLhyphen"/>ments of carrying on the Lords work from the begin<g ref="char:EOLhyphen"/>ning, and having aſſiſting unto them many others of place and power, and having alſo for them the body of the people of the Land, and the Miniſtry and all the Judicatories of the Kirk, and being obliged by the Co<g ref="char:EOLhyphen"/>venant
+<pb n="6" facs="tcp:61839:5"/>
+               <!-- PDF PAGE 24 -->to promove this cauſe againſt all lets and Impe<g ref="char:EOLhyphen"/>diments whatſoever, It were alſo needleſſe to take pains in proving the ſinfulneſſe and unlawfulneſſe of the En<g ref="char:EOLhyphen"/>gagement againſt the Kingdom of <hi>England,</hi> The Gene<g ref="char:EOLhyphen"/>rall Aſſembly having done it ſo fully from the word of God and from the Covenant, and the Lord having in<g ref="char:EOLhyphen"/>graven upon it ſo viſible charactars of his heavy diſ<g ref="char:EOLhyphen"/>pleaſure, not onely by giving up moſt of the inſtruments that were imployed in it unto the luſt of their own heart to commit all ſort of wickedneſſe with greedineſſe; But alſo by ſo ſhamefull and totall a defeat of that Army, as has few paralells i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> age; It ſhall be more uſefull in this poſture of affa<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, whilſt the Lord is breaking the horn and <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ging down the power and pride of Ene<g ref="char:EOLhyphen"/>mies, for <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one in the Land to conſider his work and to regard th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peration of his hands, And therefore in the firſt <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p n="1">1. It do<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> c<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>rn all the Authours, Promoters and Abettors of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ick<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourſe, and all theſe who com<g ref="char:EOLhyphen"/>ply with the p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rpoſes and deſignes of the Malignant party throughout the Land, to behold the Majeſty of the Lord, and his hand lifted up in behalf of his people, that they may learn Righteouſneſſe, and daſh them<g ref="char:EOLhyphen"/>ſelves no more againſt the rock of his diſpleaſure, by continuing to oppoſe his work and diſturbe the peace of his people. The Lord hath now for ten years paſt ſhowen himſelf againſt them in all their devices and de<g ref="char:EOLhyphen"/>ſignes; And though he has many times ſuffered them to conceive miſchief, yet they have alwayes travelled with vanity and brought forth the wind,. They have al<g ref="char:EOLhyphen"/>wayes been ſnared in the work of their own hands, and their deviſes have returned upon their own heads, yea their moſt ſubtill and malicious plots have in a ſtrange
+<pb n="7" facs="tcp:61839:5"/>
+               <!-- PDF PAGE 24 -->way of diſpenſation from him who is wonderfull in counſell and excellent in working, turned to the advan<g ref="char:EOLhyphen"/>tage of the Lords cauſe and good of his people; And if they be not wiſe at laſt to obſerve and ſee theſe things, as their way is deluſion ſo the end hereof ſhall be bitter<g ref="char:EOLhyphen"/>neſſe and death? There could be nothing more ſatisfy<g ref="char:EOLhyphen"/>ing to us, then that the ſpirit of Malignancy were ba<g ref="char:EOLhyphen"/>niſhed from the hearts of men, and the name of Malig<g ref="char:EOLhyphen"/>nants buryed never to be revived nor remembred any more amongſt us; And could ſuch be induced to quite their prophane and formall way, and to turn unto God, we are confident that all the enemity that they have againſt his work and his people, ſhould quickly evaniſh and that they ſhould find mercy and comfort; But as long as they ſtand at a diſtance with the Lord in regard of their private condition and carriage, what wonder is it though they have no love to his cauſe nor his ſer<g ref="char:EOLhyphen"/>vants: We wiſh that God may give them repentance, that they may recover themſelves out of the ſnare of Sathan and come to amendment.</p>
+            <p n="2">2. What ever ſhall be the frunt of the Lords work in theſe, It concerns ſuch who were formerly oppreſſed in their conſciences perſons and eſtates in this day of re<g ref="char:EOLhyphen"/>viving and delivery, to remember their wayes and be aſhamed as for all the evil thereof, ſo for the great cum<g ref="char:EOLhyphen"/>vence and countenance they gave unto disaffected and Malignant men, and carried on that wicked Warre that has been the cauſe of ſo much ſinne and miſery unto this poore Land. Neither is it to be forgotten that though many keep their conſcienees pure, and did rather chooſe to ſuffer the ſpoyling of their goods, and to expoſe themſelves to the hazard of all the violence and oppreſ<g ref="char:EOLhyphen"/>ſion of theſe who caried on the Engagement, then to ſin againſt God; yet not a few even of theſe who wiſh
+<pb facs="tcp:61839:6"/>
+               <!-- PDF PAGE 25 -->well to the Lords work whether through fear or earth<g ref="char:EOLhyphen"/>ly mindedneſſe gave ſo farre place unto their wrath, as in ſome meaſure to comply with the evil of their courſe, by giving obedience unto their unlawfull com<g ref="char:EOLhyphen"/>mand, in putting out Horſe and Foot, and advancing moneys for that end, who albeit they have many things to plead for themſelves before men, yet their way hath not been ſtraight before the Lord who ſearches the hearts and ponders the paithes.</p>
+            <p n="3">3. It is high time for thoſe in whoſe hands the Lord hath again put the managing of publick affairs from dear bought experience to learn Wiſdome, and avoid the rocks upon which they have formerly ſplit. Carnall counſell, fooliſh pittie and ſelf intereſt made many of theſe not only to ſlack their hands and remit their zeal againſt the oppoſers and underminers of the Lords work, But alſo to receive them unto publick counſells and imployments; And if after this way hath been ſo much curſed of God unto them, they ſhould again fall therein, as the fault will be without excuſe, ſo it can<g ref="char:EOLhyphen"/>not but bring ſome ſtrange teſtimony of the Lords diſ<g ref="char:EOLhyphen"/>pleaſure, upon theſe, who, after that he has puniſhed them leſſe then their iniquities do deſerve, and given them ſuch deliverance do again return to break his Commandment by joyning with the people of theſe abominations: And therefore we truſt that ſuch will take heed that they be not again deceived, neither by the carnall counſell of their own hearts from within, nor by the fawnings and flatteries of theſe men from without.</p>
+            <p>As the Malignancie of ſome, and unrighteous deal<g ref="char:EOLhyphen"/>ing and looſe and ſcandalous walking of others in Ju<g ref="char:EOLhyphen"/>dicatories and Armies and places of power and truſt in the Kingdom, have been a main cauſe of all the evils both of Sin and puniſhment under which the Land
+<pb facs="tcp:61839:6"/>
+               <!-- PDF PAGE 25 -->groans; So it concerns theſe whom God hath called thereunto, to endeavour the Reforming and purging of Judicatories and Armies, by removing from them all Malignant and ſcandalous perſons, eſpecially thoſe who have been Authors, Promoters or Abettors of the In<g ref="char:EOLhyphen"/>gagement againſt <hi>England</hi> and of the courſe purſued by the forces at <hi>Sterling</hi> under the command of the Earl of <hi>Lanerk</hi> and <hi>George Monro,</hi> And that all places of power and truſt may be filled with men of known integrity and affection to the Cauſe of God and of a blameleſſe and Chriſtian converſation. So ſhall Malignancie, in<g ref="char:EOLhyphen"/>juſtice, iniquity, prophaneneſſe, and impiety be ſup<g ref="char:EOLhyphen"/>preſſed and puniſhed, &amp; Religion and righteouſneſſe be advanced &amp; the bleſſing of the Lord ſhalbe upon all pub<g ref="char:EOLhyphen"/>lick proceedings, &amp; his pleaſure ſhal proſper in the hand of publick inſtruments: And though this duty may be at<g ref="char:EOLhyphen"/>tended with many difficulties, yet it being ſuch as with<g ref="char:EOLhyphen"/>out it we cannot expect any delivery from preſent evil, or any ſtable injoyment either of preſent or future bleſ<g ref="char:EOLhyphen"/>ſings, We truſt it ſhall be ſeriouſly minded by thoſe whom it concerns: <hi>Let them deal couragiouſly and the Lord ſhall be with the good.</hi>
+            </p>
+            <p>Albeit the former deſigne of the Malignant party be defeat, and their power broken in both Kingdoms, yet it ſhall be no wiſdom to be ſecure, as though there were no more evil or danger to be apprehended from them, who retaining their former principles will no doubt ſtill ſtudy to drive their old deſignes: And therefore as it would be the care of every one, to avoid their ſnares diſcover their ſubtilties, and oppoſe their wayes; So it concerns thoſe who are in power and authority in a ſpe<g ref="char:EOLhyphen"/>ciall way to take heed that they do not trouble the peace of the Land: And it doth no leſſe concern the watchmen of the Lords houſe, both to endeavour to keep their People pure, that they be not infected with
+<pb facs="tcp:61839:7"/>
+               <!-- PDF PAGE 26 -->Errours of Sectaries nor drawn away from the Truth, and alſo to purge out from among them the leaven of Malignancie and prophanity, and to give timous and faithfull warning of dangers on all hands, and to exhort to a faithfull performance of all the duties, that the Lord calls them unto in theſe times, eſpecially of that ſolemn publick acknowledgment of ſins and the renewing of the League and Covenant now reſolved upon. It is a great obligation from the Lord upon all that have been faithfull amongſt the Miniſtry in this Land, That he was not only pleaſed in the day of temptation, to keep them in a ſtraight path, and to give them to ſpeak his word withall boldneſſe, notwithſtanding of the threa<g ref="char:EOLhyphen"/>tenings of enemies, but to preſerve them from the wrath of men and to confirm their teſtimony by ſo real a Declaration of his diſpleaſure from heaven, againſt theſe who deſpiſed the meſſage of God in their mouths, which ſhould encourage all who ſpeak in his name to do their duty faithfully and without fear.</p>
+            <p>In the laſt place it is incumbent to all the Lords peo<g ref="char:EOLhyphen"/>ple throughout the Land from the ſenſe of his mercies and rods, to draw neer unto him by unfained Repen<g ref="char:EOLhyphen"/>tance and reall Reformation; And as to mourn for all the breaches of the Solemn League and Covenant, ſo to prepare themſelves for the renewing thereof with theſe ſutable affection and diſpoſitions that become ſo grave and great a work, that his wrath may be turned away from them, and that they being delivered out of the hands of their enemies may ſerve him without fear all the days of their life in holineſſe and righteouſ<g ref="char:EOLhyphen"/>neſſe.</p>
+            <closer>
+               <signed>A. Ker.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61839:7"/>
+            <!-- PDF PAGE 26 -->
+         </div>
+      </body>
+   </text>
+</TEI>
